@@ -1,6 +1,6 @@
 # 개요
 
-React + TypeScript + Vite를 이용한 React 프로젝트 Boilerplate
+React + TypeScript + TailwindCSS + Vite를 이용한 React 프로젝트 Boilerplate
 
 ```bash
 pnpm create vite react-boilerplate --template react-ts
@@ -24,3 +24,6 @@ pnpm create vite react-boilerplate --template react-ts
 - @testing-library/jest-dom
 - @testing-library/react
 - @testing-library/user-event
+- tailwindcss
+- @titicaca/eslint-config-triple
+- @titicaca/prettier-config-triple
